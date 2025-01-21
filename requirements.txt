@@ -1,5 +1,8 @@
-### dependency
+# Streamlit dependency for running the app
 streamlit
 
-### local packages -
--e . 
+# Local packages (relative path to your project)
+-e .
+
+# Azure dependency for interacting with Blob Storage
+azure-storage-blob
