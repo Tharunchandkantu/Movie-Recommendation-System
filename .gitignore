@@ -1,0 +1,13 @@
+# Ignore large files
+similarity.pkl
+movie_list.pkl
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore other unnecessary files
+.DS_Store
+*.log
+
+
